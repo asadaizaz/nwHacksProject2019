@@ -12,7 +12,7 @@ from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.desired_capabilities import DesiredCapabilities
 #Asad Aizaz; Jan 26 2019
-
+#Test
 # Returns a Array[Column][Row] with all the information
 # from the data.csv file. Fixed 6 column, does not handle
 # errors
